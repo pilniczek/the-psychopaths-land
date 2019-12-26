@@ -74,7 +74,7 @@ Přesun figurky [hráče](https://github.com/pilniczek/the-psychopaths-land/blob
 
 ## Průzkum
 
-Manipulace s [oblastmi](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) tak, aby se přidávaly mapa rozšiřovala o nové [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) nebo se slučovaly existující [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast).
+Manipulace s [oblastmi](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) tak, aby se přidávaly mapa rozšiřovala o nové [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) nebo se slučovaly [objevené oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#objevená-oblast).
 
 ## Sláva
 
