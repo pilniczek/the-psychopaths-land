@@ -14,7 +14,7 @@ Za průzkum hráč utrácí akční body. Ceny se různí v závislosti na typu 
 
 1. Hráč zaplatí akční body dle vlastního uvážení,
 2. vylosuje oblasti dle zaplacené ceny,
-3. umístí oblasti.
+3. spojí vylosovanou oblast s existující oblastí.
 
 ### Spojování existujících oblastí
 
