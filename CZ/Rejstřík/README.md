@@ -6,15 +6,19 @@ Dvě šestistěnné kostky.
 
 ## Akční bod
 
-"Platidlo", kterým aktivní hráč platí své činnosti.
+"Platidlo", kterým [aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#aktivní-hráč) platí.
 
 ## Aktivní hráč
 
 Hráč, jehož kolo právě probíhá.
 
+## Boj
+
+Sada akcí jednoho hráče popsaná [zde](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj).
+
 ## Cena
 
-Uváděna vždy jen v akčních bodech. Odráží úsilí vynaložené na splnění placené akce.
+Uváděna vždy jen v [akčních bodech](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akčí-bod). Odráží úsilí vynaložené na splnění placené [akce](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akce).
 
 ## D6
 
@@ -26,67 +30,75 @@ Libovolný člověk hrající za svého psychopata a snažící se ovládnout Ze
 
 ## Karta události
 
+## Kolo
+
+Sada akcí jednoho hráče popsaná [zde](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Struktura%20kola).
+
 ## Losování
 
-Z hráč vytáhne (z pytlíku/nádoby/hromádky) dílek mapy tak, aby byl zaručen náhodný výběr.
+[Hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) vytáhne (z pytlíku/nádoby/hromádky) [oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) tak, aby byl zaručen náhodný výběr.
+
+## Mapa
+
+Prostor pro pohyb hráčů popsaný [zde](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Mapa).
 
 ## Odložená oblast
 
-Oblast, kterou hráč vylosoval, ale nelze ji připojit k žádné jiné existující oblasti.
+[Oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast), kterou [hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) [vylosoval](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejst%C5%99%C3%ADk/README.md#losov%C3%A1n%C3%AD), ale nelze ji připojit k žádné jiné existující [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast). Je odložena lícem dolů a kdokoli ji může kdykoli vzít do ruky a podívat se, jak oblast vypadá a pak ji zase odložit.
 
 ## Odolnost
 
 ## Objevená oblast
 
-Oblast umístěná na stole lícem nahoru.
+[Oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) umístěná na stole lícem nahoru.
 
 ## Oblast
 
-Jedna část mapy skládající se z jednoho nebo více polí.
+Dílek [mapy](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#mapa) skládající se z jednoho nebo více [polí](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#pole).
 
 ## Placení
 
-Odečítání akčních bodů z hráčova počítadla (papáru/kostky).
+Odečítání [akčních bodů](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akční-bod) z [hráčova](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) počítadla (papíru/kostky).
 
 ## Plnitel úkolu
 
-Hráč snažící se o splnění zadaného úkolu.
+[Hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) snažící se o splnění zadaného [úkolu](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#úkol).
 
 ## Pohyb
 
-Přesun figurky hráče z objeveného pole mapy na sousedící objevené pole mapy.
+Přesun figurky [hráče](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) na [pole](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#pole) sousedící objevené [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast).
 
 ## Pole
 
-Část oblasti ve tvaru šestiúhelníku.
+Část [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) ve tvaru šestiúhelníku.
 
 ## Průzkum
 
-Manipulace s poly mapy tak, aby se přidávaly nové dílky nebo se slučovaly existující oblasti.
+Manipulace s [oblastmi](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) tak, aby se přidávaly mapa rozšiřovala o nové [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) nebo se slučovaly existující [oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast).
 
 ## Sláva
 
-Hlavní atribut hráče znázorňující úspěšnost na cestě k ovládnutí Země Psychopatů.
+Hlavní atribut [hráče](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) znázorňující úspěšnost na cestě k ovládnutí Země Psychopatů.
 
 ## Spojení oblastí
 
-Zacvaknutí oblastí do sebe tak, aby obrázky na hranéch všech nově spojených polí tvořili ucelené lokace. Například pláň se může zacvaknout jen do pláně, nikoli do města, atp. 
+Zacvaknutí [oblastí](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) do sebe tak, aby [lokace](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#lokace) na hranéch všech nově spojených [polí](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#pole) tvořili jeden celek. Například pláň se může zacvaknout jen do pláně, nikoli do města, atp. 
 
 ## Zuřivost
 
-Atribut hráče používaný v boji k určení vítěze a poraženého.
+Atribut [hráče](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) používaný v [boji](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#boj) k určení vítěze a poraženého.
 
 ## Úkol
 
-Definovaný kartou nebo na základě dohody hráčů. V případě dohody musí být úkol zadán písemně a podepsán nadpoloviční většinou hráčů. Zadavatel nemůže být plnitelem.
+Definovaný kartou nebo na základě dohody [hráčů](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč). V případě dohody musí být úkol zadán písemně a podepsán nadpoloviční většinou hráčů. Zadavatel nemůže být plnitelem.
 
 ## Úspěšný plnitel úkolu
 
-Hráč, který splnil úkol a může si za něj tedy připsat patřičný počet bodů slávy.
+[Hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč), který splnil [úkol](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#úkol) a může si za něj tedy připsat patřičný počet bodů [slávy](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#sláva).
 
 ## Vylosovaná oblast
 
-Oblast, kterou hráč vytáhl (z pytlíku/nádoby/hromádky) a rozhoduje se o jejím umístění. Pokud oblast nelze umístit, je odložena stranou. Takovou oblast lze později sloučením připojit k existujícím oblastem.
+[Oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast), kterou [hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) vytáhl (z pytlíku/nádoby/hromádky) a rozhoduje se o jejím umístění. Pokud [oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) nelze umístit, je [odložena stranou](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#odložená-oblast). Takovou [oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) lze později [připojit](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#spojení-oblastí) k [objevené oblasti](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#objevená-oblast).
 
 ## Zadavatel úkolu
 
