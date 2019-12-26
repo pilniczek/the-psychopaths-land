@@ -18,7 +18,7 @@ Sada akcí jednoho hráče popsaná [zde](https://github.com/pilniczek/the-psych
 
 ## Cena
 
-Uváděna vždy jen v [akčních bodech](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akčí-bod). Odráží úsilí vynaložené na splnění placené [akce](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akce).
+Uváděna vždy jen v [akčních bodech](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akční-bod). Odráží úsilí vynaložené na splnění placené [akce](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#akce).
 
 ## D6
 
