@@ -34,6 +34,10 @@ Libovolný člověk hrající za svého psychopata a snažící se ovládnout Ze
 
 Sada akcí jednoho hráče popsaná [zde](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Struktura%20kola).
 
+## Lokace
+
+Orientační bod (např. město, pláň, ...). Nachází se na hraně [pole](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#pole).
+
 ## Losování
 
 [Hráč](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#hráč) vytáhne (z pytlíku/nádoby/hromádky) [oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Rejstřík/README.md#oblast) tak, aby byl zaručen náhodný výběr.
