@@ -6,9 +6,9 @@ Mapa > [Oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ
 
 ## Typy oblastí
 
-**Oblast o jednom poli**
-**Oblast o jednom poli s lokací Fontána života** - umisťována vždy na začátku hry
-**Oblast o třech polích** 
+* **Oblast o jednom poli**
+* **Oblast o jednom poli s lokací Fontána života** - umisťována vždy na začátku hry
+* **Oblast o třech polích** 
 
 ## Začátek hry
 
@@ -20,24 +20,24 @@ Mapa > [Oblast](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ
 
 ## Objevování mapy
 
-1. Hráč zaplatí 1-3 akční body,
-2. může si vylosovat oblasti dle vlastního uvážení - všechny najednou,
-3. spojí vylosované oblasti s objevený oblastmi,
-4. pokud hráč zaplatil 2 akční body a nelosoval novou oblast, zbytek akčních bodů bude utracen za spojování oblastí.
+1. [Hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) zaplatí 1-3 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod),
+2. může si [vylosovat](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#losování) [oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) dle [níže uvedených možností](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Mapa/README.md#losov%C3%A1n%C3%AD),
+3. [spojí](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#spojen%C3%AD-oblast%C3%AD) [vylosované oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#vylosovan%C3%A1-oblast) s [objevený oblastmi](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#objeven%C3%A1-oblast),
+4. pokud [hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) [zaplatil](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#placen%C3%AD) 2 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) a [nelosoval novou oblast](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#vylosovan%C3%A1-oblast), zbytek [akčních bodů](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) bude [utracen](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#placen%C3%AD) za [spojení oblastí](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#spojen%C3%AD-oblast%C3%AD) nebo zmizí bez užitku.
 
 ## Ceny za objevování
 
-### Losování
+### Přidávání nových oblastí
 
-1 oblast o 1 poli: 1 akční bod
-2 oblasti o 1 poli: 2 akční body
-1 oblast o 3 polích: 2 akční body
-3 oblasti o 1 poli: 3 akční body
-1 oblast o 1 poli a 1 oblast o 3 polích: 3 akční body
+* 1 [oblast](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 1 [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole): 1 [akční bod](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
+* 2 [oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 1 [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole): 2 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
+* 1 [oblast](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 3 [polích](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole): 2 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
+* 3 [oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 1 [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole): 3 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
+* 1 [oblast](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 1 [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole) a 1 [oblast](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) o 3 [polích](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole): 3 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
 
 ### Spojování oblastí
 
-2 akční body
+2 [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod)
 
 ## Lokace
 
