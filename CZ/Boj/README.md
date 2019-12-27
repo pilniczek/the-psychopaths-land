@@ -1,10 +1,11 @@
 # Boj
 
-K boji dochází,
+K boji dochází, když hráč
 
-* když hráč otočí kartu události s psychopatem, nebo
-* když hráč s psychopatem v inventáři do fáze pohybu,
-* když po vyhodnocení karet událostí (v rámci bohybu) chce hráč zaútočit na jiného hráče.
+* otočí kartu události s psychopatem,
+* dojde do fáze pohybu s psychopatem v inventáři,
+* po vyhodnocení karet událostí (v rámci bohybu) chce hráč zaútočit na jiného hráče,
+* po ukončení boje chce poražená oběť odvetný souboj.
 
 ## Průběh boje
 
@@ -16,8 +17,8 @@ K boji dochází,
 4. Jakýkoli nebojující hráč stojící na stejném nebo sousedním poli může použít 1 kartu a ovlivnit výsledek jednoho nebo obou bojujících hráčů.
 5. Pokračuje se od kroku 2 dokud chce kterýkoli hráč používat karty.
 6. Pokud už nikdo nechce používat karty k ovlivnění výsledku, boj končí.
-7. Poražený hráč ztrácí slávu a může vyvolat odvetný souboj.
-8. Výtězný hráč obdrží slávu.
+7. Poražený hráč ztrácí slávu a pokud nebyl útočníkem, může vyvolat odvetný souboj.
+8. Vítězný hráč obdrží slávu.
 9. Při remíze nikdo o nic nepřichází a oběť útoku se nemůže pokusit o odvetný souboj.
 
 ### Mezi hráčem a psychopatem
@@ -45,6 +46,5 @@ _(Rivalové kteří remizovali se spojí proti novému útočníkovi v duchu "ne
 
 ## Porovnání šílenosti, ztráta a zisk slávy
 
-Na konci boje vítězí hráč s větší šíleností. Rovnost značí remízu.
-Rozdíl mezi šíleností útočníka a obránce značí zisk slávy pro výherce a ztrátu slávy pro poraženého.
-Ztráta slávy může být dále ovlivněna houževnatostí. TODO details.
+* Na konci boje vítězí hráč s větší šíleností. Rovnost značí remízu.
+* Rozdíl mezi šíleností útočníka a obránce značí zisk slávy pro výherce a ztrátu slávy pro poraženého.
