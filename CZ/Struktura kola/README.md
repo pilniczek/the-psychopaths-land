@@ -1,4 +1,4 @@
-# Struktura kola
+# Fáze kola
 
 ## 1. Určení počtu akčních bodů
 
@@ -7,6 +7,10 @@
 3. obdrží počet akčních bodů odpovídající číslu na vybrané kostce.
 
 ## 2. Průzkum
+
+**Hráč s psychopatem v inventáři nemůže prozkoumávat.**
+
+Hráč si výbírá, který způsob průzkumu použije. Nelze využít oba zároveň.
 
 ### Připojování nových oblastí
 
@@ -25,13 +29,14 @@
 
 ## 4. Pohyb
 
-**Hráč nemůže v jednom kole navštívit dvakrát stejné pole.**
 **Hráč s psychopatem v inventáři se nemůže pohybovat - kroky 1-3 ignoruje.**
+
+Hráč nemůže v jednom kole navštívit dvakrát stejné pole.
 
 1. Hráč zaplatí 1 akční bod,
 2. pohne se na sousední pole,
 3. otočí kartu události a vyhodnotí ji,
 4. pokud má hráč v inventáři psychopata nebo je na poli jiný hráč, proběhne souboj (souboj s psychopatem má přednost),
-5. Pokud aktivnímu hráči zbývají akční body, může se vrátit ke kroku 1.
+5. Pokud aktivnímu hráči zbývají akční body a nemá v inventáři psychopata, může se vrátit ke kroku 1.
 
 ## 5. Konec kola
