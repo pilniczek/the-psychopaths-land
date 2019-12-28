@@ -40,3 +40,9 @@ Snižují šílenost soupeře v boji.
 ### Harampádí
 
 Poskytuje jednorázové efekty rozličných typů. 
+
+## Vzhled karet
+
+![](https://raw.githubusercontent.com/pilniczek/the-psychopaths-land/master/CZ/Karty/udalost.png)
+![](https://raw.githubusercontent.com/pilniczek/the-psychopaths-land/master/CZ/Karty/psychopat.png)
+![](https://raw.githubusercontent.com/pilniczek/the-psychopaths-land/master/CZ/Karty/vybaveni.png)
