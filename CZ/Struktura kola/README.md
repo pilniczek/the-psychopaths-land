@@ -20,7 +20,7 @@ Druhy průzkumu:
 ### Připojování nových oblastí
 
 1. [Hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) [zaplatí](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#placení) [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) dle vlastního uvážení,
-2. [vylosuje](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#losvání) [oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) dle [zaplacené](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#placení) [ceny](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#cena),
+2. [vylosuje](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#losování) [oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#oblast) dle [zaplacené](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#placení) [ceny](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#cena),
 3. [vylosované oblasti](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#vylosovaná-oblast) [spojí](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#spojení-oblastí) s [objevenou oblastí](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#objevená-oblast).
 
 ### Spojování objevených oblastí
