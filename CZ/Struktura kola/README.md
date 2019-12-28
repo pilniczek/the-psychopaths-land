@@ -36,7 +36,7 @@ Hráč nemůže v jednom kole navštívit dvakrát stejné pole.
 1. Hráč zaplatí 1 akční bod,
 2. pohne se na sousední pole,
 3. otočí kartu události a vyhodnotí ji,
-4. pokud má hráč v inventáři psychopata nebo je na poli jiný hráč, proběhne souboj (souboj s psychopatem má přednost),
+4. pokud má hráč v inventáři psychopata, se kterým v tomto pohybu ještě nebojoval, nebo je na poli jiný hráč, proběhne souboj (souboj s psychopatem má přednost),
 5. Pokud aktivnímu hráči zbývají akční body a nemá v inventáři psychopata, může se vrátit ke kroku 1.
 
 ## 5. Konec kola
