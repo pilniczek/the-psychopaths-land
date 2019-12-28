@@ -3,8 +3,7 @@
 K boji dochází, když hráč
 
 * otočí kartu události s psychopatem,
-* dojde do fáze pohybu s psychopatem v inventáři,
-* po vyhodnocení karet událostí (v rámci bohybu) chce hráč zaútočit na jiného hráče,
+* dojde do fáze Boj a jsou splněny podmínky pro boj,
 * po ukončení boje chce poražená oběť odvetný souboj.
 
 ## Průběh boje
@@ -19,7 +18,7 @@ K boji dochází, když hráč
 6. Pokud už nikdo nechce používat karty k ovlivnění výsledku, boj končí.
 7. Poražený hráč ztrácí slávu a pokud nebyl útočníkem, může vyvolat odvetný souboj.
 8. Vítězný hráč obdrží slávu.
-9. Při remíze nikdo o nic nepřichází a oběť útoku se nemůže pokusit o odvetný souboj.
+9. Při remíze nikdo o nic nepřichází ani nic nezískává. Oběť útoku se nemůže vyvolat odvetný souboj.
 
 ### Mezi hráčem a psychopatem
 
@@ -30,19 +29,24 @@ K boji dochází, když hráč
 5. Jakýkoli nebojující hráč stojící na stejném nebo sousedním poli může použít 1 kartu a ovlivnit výsledek bojujícího hráče nebo psychopata.
 6. Pokračuje se od kroku 3 dokud chce kterýkoli hráč používat karty.
 7. Pokud už nikdo nechce používat karty k ovlivnění výsledku, boj končí.
-8. Poražený hráč ztrácí slávu.
-9. Poražená nestvůra je zabita a odložena, hráč získá slávu.
+8. Poražený hráč ztrácí slávu. Psychopat je umístěn na spodek balíčku událostí.
+9. Poražený psychopat je zabit a odložen, hráč získá slávu.
 10. Při remíze hráč umístí kartu psychopata do svého inventáře. Nezíská ani neztrácí slávu.
 
 ### Útok na hráče s psychopatem v inventáři
 
-Probíhá boj jako mezi dvěma hráči s následujícími rozdíly:
+Probíhá jako [mezi dvěma hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj#mezi-dv%C4%9Bma-hr%C3%A1%C4%8Di) s následujícími rozdíly:
 
-* napadený hráč využívá schoposti psychopata, kterého má v inventáři,
+* napadený využívá schoposti psychopata, kterého má v inventáři,
 * nemůže vyvolat odvetný souboj,
 * je-li poražen hráč s psychopatem, neztrácí slávu, ale přichází o kartu psychopata.
 
-_(Rivalové kteří remizovali se spojí proti novému útočníkovi v duchu "nepřítel mého nepřítele je můj přítel".)_
+### Odvetný souboj
+
+Probíhá jako [mezi dvěma hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj#mezi-dv%C4%9Bma-hr%C3%A1%C4%8Di) s následujícími rozdíly:
+
+1. V jedné fázi lze vyvolat jen jeden odvetný souboj.
+2. Je-li aktivní hráč poražen, získá vítěz 2 body slávy navíc.
 
 ## Porovnání šílenosti, ztráta a zisk slávy
 
