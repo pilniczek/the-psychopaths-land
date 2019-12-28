@@ -53,9 +53,9 @@ K boji dojde, když:
 
 Průběh boje je popsán v samostatné sekci [Boj](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj).
 
-2. Pokud [aktivnímu hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) zbývají [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) a nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), může opakovat fázi pohybu a následně i fázi [boje](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj).
+Pokud [aktivnímu hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) zbývají [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) a nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), může opakovat [fázi pohybu](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#4-pohyb) a následně i [fázi boje](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#5-boj).
 
-## 5. Konec kola
+## 6. Konec kola
 
 1. [Aktivnímu hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) se bezúčelně vyčerpají všechny zbývající [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod).
 2. Proběhnou efekty karet, které se mají dít na konci kola, v pořadí určeném [aktivním hráčem](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč).
