@@ -44,12 +44,14 @@ Druhy průzkumu:
 
 ## 5. Boj
 
-Tato fáze proěhne pokud je splněna jedna ze dvou následujících podmínek:
+Tato fáze proběhne, pokud je splněna jedna ze dvou následujících podmínek:
 
-* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), se kterým v tomto kole ještě nebojoval.
-* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) je na [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole) s jiným [hráčem](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč).
+* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), se kterým v tomto kole ještě nebojoval. (Proběhne souboj mezi hráčem a psychopatem.)
+* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) je na [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole) s jiným [hráčem](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) a nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat). (Proběhne souboj mezi hráči.)
 
-**Souboj s psychopatem má přednost.**
+**V jednom kole lze s každým hráčem bojovat maximálně jednou. (Odvetný souboj se nepočítá.)**
+
+**S psychopatem v inventáři lze bojovat víckrát v jednom kole. Opakování boje však vyžaduje zaplacení jednoho akčního bodu za každý pokus.**
 
 Průběh boje je popsán v samostatné sekci [Boj](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj).
 
