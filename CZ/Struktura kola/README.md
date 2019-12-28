@@ -44,16 +44,18 @@ Druhy průzkumu:
 
 ## 5. Boj
 
-K boji dojde, když:
+Tato fáze proěhne pokud je splněna jedna ze dvou následujících podmínek:
 
-* má [hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) v inventáři psychopata, se kterým v tomto kole ještě nebojoval,
-* je na [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole) jiný [hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč) a [aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat).
+* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), se kterým v tomto kole ještě nebojoval.
+* [Aktivní hráč](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) je na [poli](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#pole) s jiným [hráčem](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#hráč).
 
 **Souboj s psychopatem má přednost.**
 
 Průběh boje je popsán v samostatné sekci [Boj](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Boj).
 
-Pokud [aktivnímu hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) zbývají [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) a nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), může opakovat [fázi pohybu](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#4-pohyb) a následně i [fázi boje](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#5-boj).
+### Před koncem kola
+
+Pokud [aktivnímu hráči](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#aktivní-hráč) zbývají [akční body](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#akční-bod) a nemá v [inventáři](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář) [psychopata](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#psychopat), může opakovat [fázi pohybu](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#4-pohyb) a následně může opakovat i [fázi boje](https://github.com/pilniczek/the-psychopaths-land/blob/master/CZ/Struktura%20kola/README.md#5-boj).
 
 ## 6. Konec kola
 
