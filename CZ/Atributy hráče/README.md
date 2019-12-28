@@ -4,7 +4,7 @@
 * [šílenost](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#šílenost)
 * [inventář](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#inventář)
 * [sláva](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#sláva)
-* [počet karet na ruce](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#počet-karet-na-ruce)
+* [počet karet na ruce](https://github.com/pilniczek/the-psychopaths-land/tree/master/CZ/Rejst%C5%99%C3%ADk#karty-na-ruce)
 
 ### Růst Slávy
 
